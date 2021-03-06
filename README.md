@@ -20,6 +20,12 @@
 * CPU电源管理正常，支持功率报告
 
 ## 更新日志
+### 2021-3-6
+* 更新OpenCore 0.6.7
+* 更新AppleALC 1.5.8
+* 更新BrcmPatchRAM 2.5.7
+* 更新VirtualSMC 1.2.1
+* 更新WhateverGreen 1.4.8
 ### 2021-2-28
 * 更新到OpenCore 0.6.6
 * 支持Big Sur
